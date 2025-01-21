@@ -6,8 +6,8 @@ class Program
 {
     // These should be moved to configuration in a production environment
     private static readonly string ConnectionString = "";
-    private static readonly string DatabaseId = "flexible-report";
-    private static readonly string ContainerId = "flexible-report";
+    private static readonly string DatabaseId = "";
+    private static readonly string ContainerId = "";
 
     static async Task Main(string[] args)
     {
